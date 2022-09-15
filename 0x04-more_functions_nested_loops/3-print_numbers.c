@@ -11,7 +11,7 @@ void print_numbers(void)
 {
 	int h;
 
-	if (h >= 48; h <= 58; h++)
+	for (h >= 48; h <= 58; h++)
 	{
 		putchar (h);
 	}
